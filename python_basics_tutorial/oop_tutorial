@@ -1,0 +1,11 @@
+# object oriented programming (OOP)
+# basically you create classes that can manipulate data (methods of functions)
+
+''' you can d0 4 things:
+		1) hiding info
+		2) encapsulation
+		3) inheritance
+		4) polymorphism
+'''
+
+# a class is a collection of attributes that are defined for any object #data members, methods
